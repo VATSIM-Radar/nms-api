@@ -907,7 +907,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^25.3.5":
+"@types/node@npm:25.3.5":
   version: 25.3.5
   resolution: "@types/node@npm:25.3.5"
   dependencies:
@@ -2937,7 +2937,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ofetch@npm:^1.5.1":
+"ofetch@npm:1.5.1, ofetch@npm:^1.5.1":
   version: 1.5.1
   resolution: "ofetch@npm:1.5.1"
   dependencies:
@@ -4104,9 +4104,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vatsim-radar-data@workspace:."
   dependencies:
-    "@types/node": "npm:^25.3.5"
+    "@types/node": "npm:25.3.5"
     nitropack: "npm:^2.13.1"
-    ofetch: "npm:^1.5.1"
+    ofetch: "npm:1.5.1"
   languageName: unknown
   linkType: soft
 
