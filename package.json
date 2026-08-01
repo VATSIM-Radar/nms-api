@@ -12,5 +12,5 @@
     "nitropack": "^2.13.1",
     "ofetch": "^1.5.1"
   },
-  "packageManager": "yarn@4.13.0"
+  "packageManager": "yarn@4.18.0"
 }
